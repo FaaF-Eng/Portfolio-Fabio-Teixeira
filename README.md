@@ -28,7 +28,7 @@ It allows visitors to:
 
 ## 🖼️ Preview
 
-`Coming soon`
+<img src="demo.png">
 
 ---
 
